@@ -8,5 +8,5 @@ function App() {
    </>
   );
 }
-// this is from yash
+// this is from yug
 export default App;
